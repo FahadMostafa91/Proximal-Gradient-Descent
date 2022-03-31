@@ -1,2 +1,5 @@
 # Proximal-Gradient-Descent
-https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/prox-grad.pdf
+unconstrained problem with cost function split in two components
+minimize f(x) = g(x) +h(x)
+• g convex, differentiable,
+• h closed, convex, possibly nondifferentiable
